@@ -1,6 +1,6 @@
 # Shiny App
 ## Word Frequencies of Shakespeare plays
-** Visualizes a word cloud and bar graph in separate tabs after user selects from one of three plays. **
+**Visualizes a word cloud and bar graph in separate tabs after user selects from one of three plays.**
  
 
 
